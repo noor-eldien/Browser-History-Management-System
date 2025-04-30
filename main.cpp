@@ -1,8 +1,3 @@
-/**
- * IDs: 20236109 _ 20236102
- * */
-
-/// You will need to Rename the file as "main.cpp" to avoid errors
 #include <iostream>
 #include <iomanip>
 #include <fstream>
